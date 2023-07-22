@@ -1,5 +1,3 @@
-# HomeAssistant-Tasmota-MQTT
-
 <td style="width: 20%;"><img src="https://github.com/Epaminondaslage/Automacao-industrial-e-residencial-Ecossistema-didatico/blob/main/img/Logo_CEFET-MG.png" width="20%"></td>
 <p><strong>Home Assistant - Tasmota/MQTT </strong></p>
 <p><strong>Prof Epaminondas Lage</strong></p>
