@@ -1,4 +1,4 @@
-<td style="width: 20%;"><img src="/img/top_ha_tasmota_mqtt.png" width="20%"></td>
+<td style="width: 20%;"><img src="/img/top_ha_tasmota_mqtt.png" width="100%"></td>
 
 # Índice 
 * [Introdução](#Introdução)
