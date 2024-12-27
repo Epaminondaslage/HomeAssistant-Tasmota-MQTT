@@ -1,13 +1,10 @@
 <td style="width: 20%;"><img src="imagens/top_ha_tasmota_mqtt.png" width="100%"></td>
 
-
-# Integração com o Home Assistant
-
-Para integrar o Tasmota com o Home assistant, siga os passos mostrados abaixo. Caso prefira acompanhar um video, o video [Home Assistant Tasmota Integration (HOW-TO)](https://www.youtube.com/watch?v=ownHLQbAZ8Y) possui um passo a passo de como realizar a integração.
-
 # Integração do Home Assistant com o Tasmota via MQTT
 
 A integração do **Home Assistant** com dispositivos que utilizam o firmware **Tasmota** é uma solução eficiente e flexível para automação residencial. Essa integração é feita através do protocolo **MQTT** (Message Queuing Telemetry Transport), que permite a comunicação entre o Home Assistant e os dispositivos Tasmota de forma rápida e confiável.
+
+Para integrar o Tasmota com o Home assistant, siga os passos mostrados abaixo. Caso prefira acompanhar um video, o video [Home Assistant Tasmota Integration (HOW-TO)](https://www.youtube.com/watch?v=ownHLQbAZ8Y) possui um passo a passo de como realizar a integração.
 
 ---
 
