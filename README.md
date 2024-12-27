@@ -1,10 +1,5 @@
 <td style="width: 20%;"><img src="imagens/top_ha_tasmota_mqtt.png" width="100%"></td>
 
-# Índice
-
-- [Introdução](#Introdução)
-- [Tasmota](#Tasmota)
-- [Protocolo MQTT](#Protocolo-MQTT)
 
 # Introdução
 
