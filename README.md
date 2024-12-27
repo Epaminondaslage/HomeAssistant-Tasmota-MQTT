@@ -105,8 +105,9 @@ Caso prefira adicionar manualmente:
 
 Com isso, o Home Assistant estará totalmente integrado ao dispositivo Tasmota via MQTT, permitindo automações, controle remoto e monitoramento diretamente pela interface.
 
+---
 
-Para configurar a descoberta nativa do Tasmota no Home Assistant, abra o console e envie o comando **SetOption19 0**
+ ## Para configurar a descoberta nativa do Tasmota no Home Assistant, abra o console e envie o comando **SetOption19 0**
 
 ![Alt text](imagens/21.png)
 
